@@ -5,3 +5,7 @@ boto3
 pyyaml
 pyopenssl
 cryptography
+ipykernel
+datetime
+matplotlib
+seaborn
