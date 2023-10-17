@@ -1,0 +1,10 @@
+/data/
+activate.sh
+.idea/
+.DS_Store/
+*/__pycache__/*
+.ipynb_checkpoints/
+.venv/
+/otomoto_scraper/
+pandas_example.py
+s3_example.py
